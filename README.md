@@ -21,7 +21,7 @@ Esse projeto tem o objetivo de fazer uma calculdora implementando Vue
 # Tecnologias utilizadas
 
 - Vue
-- JSON
+- Json
 - CSS
 - HTML
 
